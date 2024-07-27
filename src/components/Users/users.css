@@ -1,0 +1,33 @@
+/* .search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+}
+.search input{
+    padding: 10px 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+svg{
+    fill: white;
+    width: 15px;
+}
+.users-list{
+    
+}
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    flex-direction: row;
+}
+.element{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+} */
